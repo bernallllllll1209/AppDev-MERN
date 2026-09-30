@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "studentNumber": "202100123",
+    "course": "BSIT",
+    "courseDescription": "Bachelor of Science in Information Technology",
+    "year": "3rd Year",
+    "sex": "Male"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "studentNumber": "202100456",
+    "course": "BSCS",
+    "courseDescription": "Bachelor of Science in Computer Science",
+    "year": "2nd Year",
+    "sex": "Female"
+  },
+  {
+    "id": 3,
+    "name": "Mark Santos",
+    "studentNumber": "202100789",
+    "course": "BSIS",
+    "courseDescription": "Bachelor of Science in Information Systems",
+    "year": "4th Year",
+    "sex": "Male"
+  }
+]
